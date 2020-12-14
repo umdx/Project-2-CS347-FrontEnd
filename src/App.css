@@ -1,0 +1,79 @@
+body {
+  background-image: url("pokemonwallpaper.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  color: black;
+  text-align: left;
+}
+
+.pokedex {
+  background-image: url('pokedex.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 500px;
+  height: 500px;
+  border-radius: 20px;
+  padding: 20px;
+  box-shadow: 5px 5px 10px white;
+  position: relative;
+}
+
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+form {
+  position: absolute;
+  bottom: 20px;
+}
+
+form input {
+  padding: 10px;
+  outline: none;
+  text-align: center;
+}
+
+form button {
+  padding: 10px;
+  text-align: center;
+}
+
+.mt-4 {
+  margin-top: 40px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: black;
+  text-align: center;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.list {
+  text-align: left;
+  max-width: 750px;
+  margin: auto;
+}
+
+.submit-form {
+  max-width: 300px;
+  margin: auto;
+}
+
+.edit-form {
+  max-width: 300px;
+  margin: auto;
+}
