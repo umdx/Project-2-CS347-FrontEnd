@@ -1,3 +1,14 @@
+# Testing Purposes:
+
+Some Pokemon names to test:
+abra
+pikachu
+charizard
+ditto
+bulbasaur
+charmander
+natu
+
 # Itemized Breakdown
 
 1. This website / application was created to act as a fun throwback to our childhood days of playing Pokemon. The website is meant to search for a wide range of Pokemon names and display a sprite to the user. The user can then add that Pokemon and a description of it to a database. The user can freely delete, add, update, etc to the database.
